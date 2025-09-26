@@ -17,3 +17,4 @@ Enables management of customers and items in an electronics store with persisten
 1. Open the project in your Java IDE (Eclipse, IntelliJ, etc.)
 2. Compile the source code
 3. Run the main class
+# electronics-store-application
